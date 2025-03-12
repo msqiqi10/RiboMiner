@@ -1,0 +1,2 @@
+bash /home/zzz0054/chen_data/bash_scripts/bam_gen.sh /home/zzz0054/chen_data/merged_fq/AuxinA0FootprintR4.fastq.gz /home/zzz0054/chen_data/ref/STAR_genome_index /home/zzz0054/chen_data/10-24/tmp /home/zzz0054/chen_data/10-24/out /home/zzz0054/chen_data/10-24
+bash /home/zzz0054/chen_data/bash_scripts/bam_gen.sh /home/zzz0054/chen_data/merged_fq/AuxinC0FootprintR4.fastq.gz /home/zzz0054/chen_data/ref/STAR_genome_index /home/zzz0054/chen_data/10-24/tmp /home/zzz0054/chen_data/10-24/out /home/zzz0054/chen_data/10-24

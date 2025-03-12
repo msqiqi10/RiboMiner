@@ -1,0 +1,1 @@
+bash /home/zzz0054/chen_data/bash_scripts/bam_gen.sh /home/zzz0054/chen_data/merged_fq/AuxinA30FootprintR1.fastq.gz
